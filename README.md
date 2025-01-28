@@ -1,5 +1,9 @@
-# Vue 3 + Vite
+<h1>To do list project coded with Vue and Tailwind</h1>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<p>A to do list project coded with Vue and Tailwind. You can reorder the tasks by dragging them.</p>
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+<p>This project is live at: <a href="https://enesburakdikici.com/vue-tailwind-to-do-list/">https://enesburakdikici.com/vue-tailwind-to-do-list/</a></p>
+
+<h2>Screenshots</h2>
+
+<img width="308" alt="Ekran Resmi 2025-01-29 01 47 06" src="https://github.com/user-attachments/assets/f64e5d02-cb84-4813-a848-1bfe25de78ef" />
