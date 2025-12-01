@@ -8,5 +8,4 @@ export default defineConfig({
     vue(),
     tailwindcss(),
   ],
-  base: '/vue-tailwind-to-do-list/dist/',
 })
